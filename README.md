@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/javierlassus" target="blank">LINKEDIN</a>  ||
-<a href="https://codepen.io/javierlassus" target="blank">CODEPEN</a> ||
-<a href="https://codesandbox.com/javierlassus451" target="blank">CODESANDBOX</a>
+<a href="https://linkedin.com/in/javierlassus" target="blank">LinkedIn</a>  ||
+<a href="https://codepen.io/javierlassus" target="blank">Code Pen</a> ||
+<a href="https://codesandbox.com/javierlassus451" target="blank">Code Sand Box</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
