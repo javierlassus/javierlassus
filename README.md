@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/javierlassus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="javierlassus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/javierlassus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="javierlassus" height="30" width="40" /></a>
-<a href="https://codesandbox.com/javierlassus451" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="javierlassus451" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/javierlassus" target="blank">LINKEDIN</a>
+<a href="https://codepen.io/javierlassus" target="blank">CODEPEN</a>
+<a href="https://codesandbox.com/javierlassus451" target="blank">CODESANDBOX</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
