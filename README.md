@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javierlassus&label=Profile%20views&color=0e75b6&style=flat" alt="javierlassus" /> </p>
 
-- 🔭 I’m currently working on **Neighborhood Crime Alert**
-
 - 🌱 I’m currently learning **Vue.js, React Native, Sharpening my Node.js skilss**
-
-- 👨‍💻 All of my projects are available at [javierlassus.com](javierlassus.com)
-
-- 📫 How to reach me **development@javierlassus.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
